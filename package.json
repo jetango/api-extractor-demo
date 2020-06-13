@@ -1,0 +1,13 @@
+{
+  "name": "api-extractor-demo",
+  "version": "1.0.0",
+  "description": "api 提取 demo",
+  "main": "./lib/index.js",
+  "typings": "./lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
